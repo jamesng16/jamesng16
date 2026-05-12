@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=James%20Nguyen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=55" width="100%"/>
+<!-- Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:4c1d95&height=200&section=header&animation=fadeIn" width="100%"/>
+
+<!-- Pixel Name (static) -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1&pause=9999999&color=A855F7&center=true&vCenter=true&repeat=false&width=700&height=70&lines=James+Nguyen" alt="James Nguyen"/>
 
 <br/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+James+Nguyen;AI+%2F+ML+Engineer;Deep+Learning+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=600&lines=AI+%2F+ML+Engineer;Deep+Learning+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" /></a>
 
 </div>
 
@@ -14,7 +17,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="300"/> 
+<img src="https://media.giphy.com/media/26AHupWKXQDHhgf3q/giphy.gif" width="300"/>
 
 - I'm an **AI / Machine Learning Engineer** passionate about building intelligent systems
 - Currently exploring **LLMs, Computer Vision & MLOps**
@@ -26,15 +29,15 @@
 
 ### Connect with me:
 <p>
-  <a href="https://github.com/jamesng16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:ngviethoang.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jamesnguyen106"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://hoangviet-ai.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/jamesng16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://hoangviet-ai.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:ngviethoang.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jamesnguyen106"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
- <img src="https://media.giphy.com/media/G2cpDFcKzAPMScb0MC/giphy.gif" width="30"> Tech Stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
@@ -50,6 +53,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 #### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
