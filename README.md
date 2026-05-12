@@ -14,7 +14,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="300"/> 
 
 - I'm an **AI / Machine Learning Engineer** passionate about building intelligent systems
 - Currently exploring **LLMs, Computer Vision & MLOps**
