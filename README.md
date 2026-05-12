@@ -23,7 +23,8 @@
 - Currently exploring **LLMs, Computer Vision & MLOps**
 - Learning more about **Generative AI & Agentic Workflows**
 - Open to collaborate on **AI/ML open-source projects**
-- Fun fact: I debug neural networks with coffee and patience
+- Art lover, music soul — **Guitar & Piano** are my debuggers
+- Fun fact: I train models by day, play chords by night
 
 <br/>
 
