@@ -34,6 +34,7 @@
 <a href="https://hoangviet-ai.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:ngviethoang.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jamesnguyen106"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=jamesng16&color=FE428E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
@@ -109,11 +110,8 @@
 
 <div align="center">
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=jamesng16&color=FE428E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <!-- Animated Snake -->
-<br/><br/>
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
